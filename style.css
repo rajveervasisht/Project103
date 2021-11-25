@@ -1,0 +1,19 @@
+body{
+    background-color:aqua;
+    color: blue;
+}
+
+.heading{
+    font-size: 24px;
+    width: 80%;
+}
+
+.people,#name,#accuracy{
+    color: orange;
+}
+
+#camera, #result{
+    border: 2px dashed darkblue;
+    width: 350px;
+    height: 300px;
+}
